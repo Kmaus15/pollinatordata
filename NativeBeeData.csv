@@ -1,0 +1,733 @@
+﻿Month,Day,Plot_name,Temp,Wind,Sun level,Transect number,Transect start time,Transect end time,Type_of_insect,Type_of_Veg,Notes
+2021-05-22,22,Gateway,66,3,sunny,1,1332,1347,native bee,sage,bombus
+2021-05-22,22,Gateway,66,3,sunny,2,1350,1405,native bee,chive,bombus
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,onion flower,bombus
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,onion flower,bombus
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,sunflower,bombus
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,sunflower,bombus
+2021-06-05,5,Gateway,92,15,full,2,1440,1455,native bee,onion flower,bombus
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,native bee,sage,bombus
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,sunflower,bombus
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,native bee,sage,bombus
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,native bee,lambs ear,bombus
+2021-07-11,11,VMO,88,3,full,2,1331,1346,native bee,unknown ,bombus
+2021-07-11,11,VMO,88,3,full,2,1331,1346,native bee,tomato,bombus
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,hyssop,bombus
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,hyssop,bombus
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,sage,bombus
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,sage,bombus
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,coneflower,bombus
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,native bee,sunflower,bombus
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,native bee,sunflower,bombus
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,native bee,sunflower,bombus
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,bombus
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,bombus
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,coneflower,bombus
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,coneflower,bombus
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,sunflower,bombus
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,sunflower,bombus
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,unknown,bombus
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,sunflower,bombus
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,sunflower,bombus
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,sunflower,bombus
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,sunflower,bombus
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,hyssop,bombus
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,hyssop,bombus
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,sunflower,bombus
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,sunflower,bombus
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,sunflower,bombus
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,sunflower,bombus
+2021-07-29,29,VMO,81,3,full,2,1543,1558,native bee,sunflower,bombus
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,native bee,basil,bombus
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,native bee,marigold,bombus
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,native bee,marigold,bombus
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,native bee,sunflower,bombus
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,native bee,sunflower,bombus
+2021-08-12,12,VMO,89,3,overcast,2,1115,1130,native bee,onion flower,bombus
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,guara,bombus
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,onion flower,bombus
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,native bee,sunflower,bombus
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,native bee,marigold,bombus
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,sunflower,bombus
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,sunflower,bombus
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,sunflower,bombus
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,sunflower,bombus
+2021-08-26,26,VMO,88,3,full,2,1505,1521,native bee,sunflower,bombus
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,sunflower,bombus
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,sunflower,bombus
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,onion flower,bombus
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,onion flower,bombus
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,sunflower,bombus
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,sunflower,bombus
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,native bee,lambs ear,carder
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,native bee,lambs ear,carder
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,native bee,lambs ear,carder
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,native bee,lambs ear,carder
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,native bee,lambs ear,carder
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,native bee,lambs ear,carder
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,lambs ear,carder
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,native bee,lavender,carder
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,lambs ear,carder
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,lambs ear,carder
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,native bee,sage,fairy
+2021-06-18,18,Gateway,69,10,sunny,1,1636,1651,native bee,orange coreopsis,fairy
+2021-06-18,18,Gateway,69,10,sunny,1,1636,1651,native bee,orange coreopsis,fairy
+2021-06-18,18,Gateway,69,10,sunny,1,1636,1651,native bee,guara,fairy
+2021-06-18,18,Gateway,69,10,sunny,1,1636,1651,native bee,white coreopsis,fairy
+2021-06-18,18,Gateway,69,10,sunny,1,1636,1651,native bee,white coreopsis,fairy
+2021-06-18,18,Gateway,69,10,sunny,1,1636,1651,native bee,white coreopsis,fairy
+2021-07-11,11,Gateway,92,7,full,2,1528,1543,native bee,marigold,fairy
+2021-07-11,11,VMO,88,3,full,1,1309,1324,native bee,squash,fairy
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,yarrow,fairy
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,yarrow,fairy
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,yarrow,fairy
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,thyme,fairy
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,yarrow,fairy
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,unknown,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,strawberry,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,hyssop,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,hyssop,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,hyssop,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,hyssop,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,guara,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,thyme,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,thyme,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,thyme,fairy
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,thyme,fairy
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,squash,fairy
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,unknown,fairy
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,native bee,hyssop,fairy
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,native bee,yarrow,fairy
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,native bee,yarrow,fairy
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,hyssop,fairy
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,hyssop,fairy
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,yarrow,fairy
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,yarrow,fairy
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,yarrow,fairy
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,yarrow,fairy
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,yarrow,fairy
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,yarrow,fairy
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,yarrow,fairy
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,aster,fairy
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,aster,fairy
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,aster,fairy
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,guara,fairy
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,sage,fairy
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,yarrow,fairy
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,yarrow,fairy
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,squash,fairy
+2021-05-22,22,Creekside,64,3,overcast,1,1131,1146,honey bee,chive,honey
+2021-05-22,22,Creekside,64,3,overcast,1,1131,1146,honey bee,chive,honey
+2021-05-22,22,Creekside,64,3,overcast,1,1131,1146,honey bee,chive,honey
+2021-05-22,22,Creekside,64,3,overcast,1,1131,1146,honey bee,sage,honey
+2021-05-22,22,Creekside,64,3,overcast,1,1131,1146,honey bee,sage,honey
+2021-05-22,22,Creekside,64,3,overcast,1,1131,1146,honey bee,sage,honey
+2021-05-22,22,Creekside,64,3,overcast,2,1149,1204,honey bee,sage,honey
+2021-05-22,22,Creekside,64,3,overcast,2,1149,1204,honey bee,sage,honey
+2021-05-22,22,Creekside,64,3,overcast,2,1149,1204,honey bee,sage,honey
+2021-05-22,22,Creekside,64,3,overcast,2,1149,1204,honey bee,sage,honey
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,honey bee,lambs ear,honey
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,honey bee,lambs ear,honey
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,honey bee,lambs ear,honey
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,honey bee,tickseed,honey
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,honey bee,rosemary,honey
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,honey bee,rosemary,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,coneflower,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,tickseed,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,tickseed,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,tickseed,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,sunflower,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,sunflower,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,onion flower,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,onion flower,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,onion flower,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,sunflower,honey
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,honey bee,mustard,honey
+2021-06-05,5,VMO,93,15,partly cloudy,1,1345,1400,honey bee,fig tree,honey
+2021-06-05,5,VMO,93,15,partly cloudy,1,1345,1400,honey bee,fig tree,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,honey bee,wild rose,honey
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1340,1355,honey bee,lettuce,honey
+2021-06-05,5,Gateway,92,15,full,1,1422,1437,honey bee,unknown,honey
+2021-06-05,5,Gateway,92,15,full,2,1440,1455,honey bee,mint,honey
+2021-06-05,5,Gateway,92,15,full,2,1440,1455,honey bee,chive,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,lambs ear,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,poppy,honey
+2021-06-05,5,Harmony,88,9,full,1,1201,1216,honey bee,raspberry,honey
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,honey bee,hollyhock,honey
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,honey bee,tickseed,honey
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,honey bee,onion flower,honey
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,honey bee,onion flower,honey
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,honey bee,onion flower,honey
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,honey bee,onion flower,honey
+2021-06-18,18,VMO,64,9,partly cloudy,1,1355,1410,honey bee,butterfly bush,honey
+2021-06-18,18,VMO,64,9,partly cloudy,1,1355,1410,honey bee,sunflower,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,sage,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,sage,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,sage,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,1,1552,1607,honey bee,wild rose,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,2,1612,1627,honey bee,onion flower,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,2,1612,1627,honey bee,mint,honey
+2021-06-18,18,Creekside,62,6,partly cloudy,2,1612,1627,honey bee,poppy,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,1,1447,1502,honey bee,lambs ear,honey
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,honey bee,hollyhock,honey
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,honey bee,yellow coreopsis,honey
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,honey bee,yellow coreopsis,honey
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,honey bee,yellow coreopsis,honey
+2021-06-18,18,Gateway,69,10,sunny,1,1636,1651,honey bee,sage,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,coneflower,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,coneflower,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,coneflower,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,coneflower,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,blanket flower,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,blanket flower,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,blanket flower,honey
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,honey bee,blanket flower,honey
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,honey bee,catmint,honey
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,honey bee,sage,honey
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,honey bee,unknown,honey
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,honey bee,unknown,honey
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,honey bee,unknown,honey
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,honey bee,unknown,honey
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,honey bee,unknown,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,onion flower,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,onion flower,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,onion flower,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,mustard,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,mustard,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,mustard,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,mustard,honey
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,honey bee,mustard,honey
+2021-07-11,11,VMO,88,3,full,1,1309,1324,honey bee,sage,honey
+2021-07-11,11,VMO,88,3,full,1,1309,1324,honey bee,sage,honey
+2021-07-11,11,VMO,88,3,full,1,1309,1324,honey bee,sage,honey
+2021-07-11,11,VMO,88,3,full,2,1331,1346,honey bee,unknown,honey
+2021-07-11,11,VMO,88,3,full,2,1331,1346,honey bee,unknown,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,hyssop,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,yarrow,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,sage,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,sage,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,sage,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,tomato,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,onion flower,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,onion flower,honey
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,honey bee,onion flower,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,poppy,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,poppy,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,poppy,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,poppy,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,sunflower,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,sunflower,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,sunflower,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,mustard,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,mustard,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,mustard,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,squash,honey
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,honey bee,toato,honey
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,honey bee,hyssop,honey
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,honey bee,yarrow,honey
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,honey bee,squash,honey
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,honey bee,sage,honey
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,honey bee,sage,honey
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,honey bee,sage,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,sunflower,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,sunflower,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,sunflower,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,poppy,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,poppy,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,mustard,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,unknown,honey
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,honey bee,unknown,honey
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,honey bee,squash,honey
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,honey bee,sage,honey
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,honey bee,unknown,honey
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,honey bee,unknown,honey
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,honey bee,unknown,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,unknown,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,mustard,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,honey bee,onion flower,honey
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,honey bee,blanket flower,honey
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,honey bee,guara,honey
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,honey bee,catmint,honey
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,honey bee,catmint,honey
+2021-07-29,29,VMO,81,3,full,1,1525,1540,honey bee,sunflower,honey
+2021-07-29,29,VMO,81,3,full,1,1525,1540,honey bee,sunflower,honey
+2021-07-29,29,VMO,81,3,full,1,1525,1540,honey bee,sage,honey
+2021-07-29,29,VMO,81,3,full,1,1525,1540,honey bee,sage,honey
+2021-07-29,29,VMO,81,3,full,1,1525,1540,honey bee,sage,honey
+2021-07-29,29,VMO,81,3,full,2,1543,1558,honey bee,unknown,honey
+2021-07-29,29,VMO,81,3,full,2,1543,1558,honey bee,unknown,honey
+2021-07-29,29,VMO,81,3,full,2,1543,1558,honey bee,hollyhock,honey
+2021-07-29,29,VMO,81,3,full,2,1543,1558,honey bee,hollyhock,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,basil,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,basil,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,onion flower,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,onion flower,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,onion flower,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,onion flower,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,marigold,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,honey bee,marigold,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,sunflower,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,broccoli,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,broccoli,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,broccoli,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,sunflower,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,mustard,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,mustard,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,mustard,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,thyme,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,thyme,honey
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,honey bee,thyme,honey
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,honey bee,pea,honey
+2021-08-12,12,VMO,89,3,overcast,2,1115,1130,honey bee,sunflower,honey
+2021-08-12,12,VMO,89,3,overcast,2,1115,1130,honey bee,sunflower,honey
+2021-08-12,12,VMO,89,3,overcast,2,1115,1130,honey bee,unknown,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,honey bee,blanket flower,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,honey bee,thyme,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,honey bee,tickseed,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,honey bee,sunflower,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,honey bee,sunflower,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,honey bee,sunflower,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,honey bee,sunflower,honey
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,honey bee,tickseed,honey
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,honey bee,mustard,honey
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,honey bee,mustard,honey
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,honey bee,coneflower,honey
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,honey bee,coneflower,honey
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,honey bee,onion flower,honey
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,honey bee,onion flower,honey
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,raspberry,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,raspberry,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,raspberry,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,raspberry,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,lavender,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,lavender,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,thyme,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,thyme,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,thyme,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,thyme,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,thyme,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,tomato,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,tomato,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,sunflower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,marigold,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,honey bee,onion flower,honey
+2021-08-26,26,VMO,88,3,full,1,1448,1503,honey bee,sunflower,honey
+2021-08-26,26,VMO,88,3,full,1,1448,1503,honey bee,sage,honey
+2021-08-26,26,VMO,88,3,full,2,1505,1521,honey bee,sunflower,honey
+2021-08-26,26,VMO,88,3,full,2,1505,1521,honey bee,sunflower,honey
+2021-08-26,26,VMO,88,3,full,2,1505,1521,honey bee,hollyhock,honey
+2021-08-26,26,VMO,88,3,full,2,1505,1521,honey bee,thyme,honey
+2021-08-26,26,VMO,88,3,full,2,1505,1521,honey bee,sage,honey
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,honey bee,strawberry,honey
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,honey bee,strawberry,honey
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,honey bee,guara,honey
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,honey bee,guara,honey
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,honey bee,sunflower,honey
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,honey bee,sunflower,honey
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,honey bee,sunflower,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,pea,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,pea,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,marigold,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,marigold,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,unknown,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,unknown,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,unknown,honey
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,honey bee,squash,honey
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,honey bee,thyme,honey
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,honey bee,tickseed,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,coneflower,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,tickseed,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,onion flower,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,onion flower,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,onion flower,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,onion flower,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,coneflower,honey
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,honey bee,sunflower,honey
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,sunflower,leafcutter
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,sunflower,leafcutter
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,native bee,broccoli,leafcutter
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,native bee,broccoli,leafcutter
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,native bee,broccoli,leafcutter
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,sunflower,leafcutter
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,sunflower,leafcutter
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,native bee,sunflower,leafcutter
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,sunflower,leafcutter
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,tickseed,leafcutter
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,tickseed,leafcutter
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,tickseed,leafcutter
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,sunflower,leafcutter
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,sunflower,leafcutter
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,sunflower,leafcutter
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,sunflower,leafcutter
+2021-08-12,12,VMO,89,3,overcast,2,1115,1130,native bee,sunflower,long-horn
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,sunflower,long-horn
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,sunflower,long-horn
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,native bee,sunflower,long-horn
+2021-08-12,12,Creekside,97,7,partly cloudy,2,1320,1335,native bee,sunflower,long-horn
+2021-05-22,22,Creekside,64,3,overcast,1,1131,1146,native bee,unknown ,mining
+2021-07-11,11,VMO,88,3,full,1,1309,1324,native bee,sunflower,mining
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,sage,mining
+2021-07-29,29,VMO,81,3,full,1,1525,1540,native bee,sunflower,mining
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,onion flower,mining
+2021-08-26,26,VMO,88,3,full,2,1505,1521,native bee,sunflower,mining
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,squash,squash
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,squash,squash
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,squash,squash
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,squash,squash
+2021-05-22,22,Harmony,67,3,overcast,1,1419,1434,native bee,sage,sweat
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,tickseed,sweat
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,tickseed,sweat
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,tickseed,sweat
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,tickseed,sweat
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,sunflower,sweat
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,tickseed,sweat
+2021-05-22,22,Harmony,67,3,overcast,2,1435,1450,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,tickseed,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,sunflower,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,sunflower,sweat
+2021-06-05,5,Harmony,88,9,full,2,1217,1232,native bee,sunflower,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,blanket flower,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,blanket flower,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bluebell,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,thyme,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,white coreopsis,sweat
+2021-07-11,11,VMO,88,3,full,1,1309,1324,native bee,squash,sweat
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,thyme,sweat
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,native bee,sunflower,sweat
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,native bee,mustard,sweat
+2021-07-11,11,Creekside,87,3,full,2,1216,1231,native bee,mustard,sweat
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,thyme,sweat
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,sunflower,sweat
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,orange coreopsis,sweat
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,orange coreopsis,sweat
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,orange coreopsis,sweat
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,sunflower,sweat
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,blanket flower,sweat
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,rosemary,sweat
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,tickseed,sweat
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,tickseed,sweat
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,tickseed,sweat
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,sunflower,sweat
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,sunflower,sweat
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,sunflower,sweat
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,sunflower,sweat
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,pink coreopsis,sweat
+2021-07-29,29,VMO,81,3,full,1,1525,1540,native bee,hyssop,sweat
+2021-08-12,12,Creekside,97,7,partly cloudy,1,1302,1317,native bee,onion flower,sweat
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,native bee,hyssop,sweat
+2021-08-12,12,VMO,89,3,overcast,1,1058,1113,native bee,hyssop,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,hyssop,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,hyssop,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,blanket flower,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,guara,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,1,1358,1413,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,tickseed,sweat
+2021-08-12,12,Gateway,98,9,partly cloudy,2,1415,1430,native bee,tickseed,sweat
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,lambs ear,sweat
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,tickseed,sweat
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,tickseed,sweat
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,yarrow,sweat
+2021-08-12,12,Harmony,96,7,partly cloudy,1,1202,1217,native bee,yarrow,sweat
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,native bee,tickseed,sweat
+2021-08-12,12,Harmony,96,7,partly cloudy,2,1219,1229,native bee,tickseed,sweat
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,native bee,sunflower,sweat
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,native bee,sunflower,sweat
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,native bee,sunflower,sweat
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,native bee,sunflower,sweat
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,sunflower,sweat
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,sunflower,sweat
+2021-08-26,26,Creekside,86,9,sunny,2,1335,1350,native bee,sunflower,sweat
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,sunflower,sweat
+2021-08-26,26,VMO,88,3,full,1,1448,1503,native bee,hyssop,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,rosemary,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,sage,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,thyme,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,thyme,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,daisey,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,marigold,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,yarrow,sweat
+2021-08-26,26,Gateway,88,9,full,2,1610,1625,native bee,yarrow,sweat
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,thyme,sweat
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,thyme,sweat
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,tickseed,sweat
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,tickseed,sweat
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,tickseed,sweat
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,tickseed,sweat
+2021-08-26,26,Harmony,86,3,full,1,1146,1201,native bee,tickseed,sweat
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,tickseed,sweat
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,tickseed,sweat
+2021-08-26,26,Harmony,86,3,full,2,1205,1220,native bee,tickseed,sweat
+2021-05-22,22,Gateway,66,3,sunny,1,1332,1347,native bee,unknown,unknown
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,native bee,sage,unknown
+2021-06-05,5,Creekside,91,10,partly cloudy,1,1313,1328,native bee,sage,unknown
+2021-06-05,5,Gateway,92,15,full,1,1422,1437,native bee,penstemon,unknown
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,native bee,orange coreopsis,unknown
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,native bee,orange coreopsis,unknown
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,native bee,orange coreopsis,unknown
+2021-06-18,18,Harmony,66,10,overcast,2,1509,1524,native bee,sunflower,unknown
+2021-06-18,18,Gateway,69,10,sunny,2,1655,1710,native bee,poppy,unknown
+2021-06-18,18,Gateway,69,10,sunny,2,1655,1710,native bee,poppy,unknown
+2021-06-18,18,Gateway,69,10,sunny,2,1655,1710,native bee,poppy,unknown
+2021-06-18,18,Gateway,69,10,sunny,2,1655,1710,native bee,poppy,unknown
+2021-06-18,18,Gateway,69,10,sunny,2,1655,1710,native bee,white coreopsis,unknown
+2021-06-18,18,Gateway,69,10,sunny,2,1655,1710,native bee,white coreopsis,unknown
+2021-06-18,18,Gateway,69,10,sunny,2,1655,1710,native bee,white coreopsis,unknown
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,bean,unknown
+2021-07-11,11,Gateway,92,7,full,1,1511,1526,native bee,blanket flower,unknown
+2021-07-11,11,Gateway,92,7,full,2,1528,1543,native bee,mustard,unknown
+2021-07-11,11,Gateway,92,7,full,2,1528,1543,native bee,mustard,unknown
+2021-07-11,11,Gateway,92,7,full,2,1528,1543,native bee,marigold,unknown
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,native bee,lambs ear,unknown
+2021-07-11,11,Harmony,91,8,full,1,1350,1405,native bee,lambs ear,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,onion flower,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,onion flower,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,onion flower,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,onion flower,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,onion flower,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,onion flower,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,yarrow,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,mustard,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,Harmony,91,8,full,2,1418,1433,native bee,tickseed,unknown
+2021-07-11,11,VMO,88,3,full,1,1309,1324,native bee,sunflower,unknown
+2021-07-11,11,VMO,88,3,full,2,1331,1346,native bee,unknown,unknown
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,hyssop,unknown
+2021-07-11,11,Creekside,87,3,full,1,1158,1213,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,hyssop,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,yarrow,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,yarrow,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,yarrow,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,sage,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,sage,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,sage,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,sage,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,thyme,unknown
+2021-07-29,29,Creekside,83,3,full,1,1207,1222,native bee,thyme,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,sunflower,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,sunflower,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,sunflower,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,mustard,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,mustard,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,mustard,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,mustard,unknown
+2021-07-29,29,Creekside,83,3,full,2,1224,1239,native bee,mustard,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,sage,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,sage,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,sage,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,unknown,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,unknown,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,unknown,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,unknown,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,unknown,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,orange coreopsis,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,orange coreopsis,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,orange coreopsis,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,yarrow,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,yarrow,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,yarrow,unknown
+2021-07-29,29,Harmony,84,6,full,1,1306,1321,native bee,yarrow,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,unknown,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,unknown,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,mustard,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,mustard,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,mustard,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,orange coreopsis,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,orange coreopsis,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,orange coreopsis,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,orange coreopsis,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,onion flower,unknown
+2021-07-29,29,Harmony,84,6,full,2,1324,1339,native bee,onion flower,unknown
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,blanket flower,unknown
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,thyme,unknown
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,penstemon,unknown
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,penstemon,unknown
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,penstemon,unknown
+2021-07-29,29,Gateway,85,6,full,1,1430,1445,native bee,penstemon,unknown
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,squash,unknown
+2021-07-29,29,Gateway,85,6,full,2,1451,1506,native bee,unknown,unknown
+2021-07-29,29,VMO,81,3,full,2,1543,1558,native bee,sunflower,unknown
+2021-08-26,26,Creekside,86,9,sunny,1,1315,1330,native bee,marigold,unknown
+2021-08-26,26,Gateway,88,9,full,1,1552,1407,native bee,tomato,unknown
